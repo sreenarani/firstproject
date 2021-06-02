@@ -15,7 +15,7 @@ public class GSJH {
 	public static void main(String[] args) throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "C:\\Work\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
-		String[] itemsNeeded= {"Cucumber","Brocolli","Beetroot"};
+		String[] itemsNeeded= {"Cucumber","Apple","Brocolli","Beetroot"};
 
 
 
